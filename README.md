@@ -1,4 +1,5 @@
 <!-- Banner with fixed top text and typing animation -->
+    <img src="[https://postimg.cc/vxXyX231]" alt="Typing SVG" />
 <p align="center">
   <strong>Hello I am Tomal.M</strong><br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58E&lines=Creative+UI%2FUX+Designer;Front+end+development" alt="Typing SVG" />
