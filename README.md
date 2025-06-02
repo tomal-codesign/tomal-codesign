@@ -15,8 +15,8 @@
 Hi! I'm **Tomal Raj**, a passionate **designer & front-end developer** from Bangladesh 🇧🇩
 
 - 🔭 Currently working on **SaaS dashboards and UI systems**
-- 🧩 Stack: React, Angular, Tailwind, Bootstrap, Figma, Photoshop
-- 💬 Ask me about **UI Design, Responsive Layouts, or Frontend Architecture**
+- 🧩 Stack: HTML, CSS, JavaScript, JQuery, Bootstrap, TailwindCSS React, Next, Angular .
+- 💬 Ask me about **UI Design, Responsive Layouts, Api Integration**
 - 🚀 I love creating beautiful, fast, and accessible web apps
 - 🌐 Portfolio: [tomal-codesign.vercel.app](https://tomal-codesign.vercel.app)
 
@@ -26,23 +26,26 @@ Hi! I'm **Tomal Raj**, a passionate **designer & front-end developer** from Bang
 
 **Languages & Tools:**
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Tomal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomal-codesign&show_icons=true&theme=radical" alt="Tomal's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tomal-codesign&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
