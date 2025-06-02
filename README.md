@@ -17,7 +17,7 @@ Hi! I'm **Tomal Raj**, a passionate **designer & front-end developer** from Bang
 - 🧩 Stack: React, Angular, Tailwind, Bootstrap, Figma, Photoshop
 - 💬 Ask me about **UI Design, Responsive Layouts, or Frontend Architecture**
 - 🚀 I love creating beautiful, fast, and accessible web apps
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
+- 🌐 Portfolio: [tomal-codesign.vercel.app](https://tomal-codesign.vercel.app)
 
 ---
 
