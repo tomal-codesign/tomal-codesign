@@ -1,5 +1,5 @@
 <!-- Banner with fixed top text and typing animation -->
-        <img src="https://i.postimg.cc/jCYjxGfh/forgot.jpg" alt="Typing SVG" />
+![Forgot](https://github.com/tomal-codesign/your-repo/blob/main/path/forgot.jpg?raw=true)
 
 
 <p align="center">
