@@ -24,14 +24,14 @@ Hi! I'm **Tomal Raj**, a passionate **designer & front-end developer** from Bang
 
 ## 🛠️ Tech Stack
 
-**Design Tools:**
+🎨 **Design Tools:**
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
 </p>
 
-**Development Tools:**
+🖥️ **Development Tools:**
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
