@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58E&width=435&lines=Hi%2C+I'm+Tomal+Raj!;Designer+%2F+Developer;React+%7C+Angular+%7C+UI+%2F+UX+%7C+Figma+%7C+Photoshop" alt="Typing SVG" />
+  Hello,
+I am Tomal
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58E&width=435&lines=Hi%2C+I'm+Tomal+.M!;Designer+%2F+Developer;React+%7C+Angular+%7C+UI+%2F+UX+%7C+Figma+%7C+Photoshop" alt="Typing SVG" />
 </p>
 
 <p align="center">
