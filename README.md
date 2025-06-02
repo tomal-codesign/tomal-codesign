@@ -1,7 +1,7 @@
 <!-- Banner with fixed top text and typing animation -->
 <p align="center">
   <strong>Hello I am Tomal.M</strong><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58E&width=435&lines=Creative+UI%2FUX+Designer;Front+end+development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58E&lines=Creative+UI%2FUX+Designer;Front+end+development" alt="Typing SVG" />
 </p>
 
 <p align="center">
