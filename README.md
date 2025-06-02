@@ -1,5 +1,6 @@
 <!-- Banner with fixed top text and typing animation -->
-    ![Typing SVG](https://i.postimg.cc/jCYjxGfh/forgot.jpg)
+        <img src="https://i.postimg.cc/jCYjxGfh/forgot.jpg" alt="Typing SVG" />
+
 
 <p align="center">
   <strong>Hello I am Tomal.M</strong><br>
