@@ -1,5 +1,5 @@
 <!-- Banner with fixed top text and typing animation -->
-    ![Typing SVG](https://i.postimg.cc/vxXyX231/your-image.png)
+    ![Typing SVG](https://i.postimg.cc/jCYjxGfh/forgot.jpg)
 
 <p align="center">
   <strong>Hello I am Tomal.M</strong><br>
