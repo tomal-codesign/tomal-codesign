@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+views&color=blue&style=flat" alt="your-username" />
 </p>
 
-<p align="center">## 🛠️ Tech Stack</p>
-
-<p align="center">🎨 **Design Tools:**</p>
+<p align="center">🎨 <strong>Design Tools:</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
