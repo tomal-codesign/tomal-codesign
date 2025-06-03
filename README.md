@@ -1,5 +1,5 @@
 <!-- Banner with fixed top text and typing animation -->
-<img src="https://github.com/tomal-codesign/tomal-codesign/blob/main/github-img.png?raw=true" alt="Typing SVG" />
+<img src="https://github.com/tomal-codesign/tomal-codesign/blob/main/assets/github-img.png?raw=true" alt="Banner" />
 
 <p align="center">
   <strong>Hello I am Tomal.M</strong><br>
