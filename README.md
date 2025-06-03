@@ -2,27 +2,8 @@
 <img src="https://github.com/tomal-codesign/tomal-codesign/blob/main/github-img.png?raw=true" alt="Banner" />
 
 <p align="center">
-  <strong>Hello I am Tomal.M</strong><br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58E&lines=Creative+UI%2FUX+Designer;Front+end+development" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+views&color=blue&style=flat" alt="your-username" />
 </p>
-
----
-
-## 👋 About Me
-
-Hi! I'm **Tomal Raj**, a passionate **designer & front-end developer** from Bangladesh 🇧🇩
-
-- 🔭 Currently working on **SaaS dashboards and UI systems**
-- 🧩 Stack: HTML, CSS, JavaScript, JQuery, Bootstrap, TailwindCSS React, Next, Angular .
-- 💬 Ask me about **UI Design, Responsive Layouts, Api Integration**
-- 🚀 I love creating beautiful, fast, and accessible web apps
-- 🌐 Portfolio: [tomal-codesign.vercel.app](https://tomal-codesign.vercel.app)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -49,18 +30,6 @@ Hi! I'm **Tomal Raj**, a passionate **designer & front-end developer** from Bang
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
-
-
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomal-codesign&show_icons=true&theme=radical" alt="Tomal's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tomal-codesign&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
 
 ---
 
