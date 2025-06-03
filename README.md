@@ -1,6 +1,5 @@
 <!-- Banner with fixed top text and typing animation -->
-![Forgot](https://github.com/tomal-codesign/your-repo/blob/main/path/forgot.jpg?raw=true)
-
+<img src="https://github.com/tomal-codesign/tomal-codesign/blob/main/github-img.png?raw=true" alt="Typing SVG" />
 
 <p align="center">
   <strong>Hello I am Tomal.M</strong><br>
