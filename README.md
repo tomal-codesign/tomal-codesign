@@ -1,7 +1,8 @@
 <!-- Banner with fixed top text and typing animation -->
-<a href="tomal-codesign.vercel.app">
-<img src="https://github.com/tomal-codesign/tomal-codesign/blob/main/github-img.png?raw=true" alt="Banner" />
+<a href="https://tomal-codesign.vercel.app">
+  <img src="https://github.com/tomal-codesign/tomal-codesign/blob/main/github-img.png?raw=true" alt="Banner" />
 </a>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+views&color=blue&style=flat" alt="your-username" />
 </p>
