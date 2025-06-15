@@ -1,6 +1,6 @@
 <!-- Banner with fixed top text and typing animation -->
 <a href="https://tomal-codesign.vercel.app">
-  <img src="https://github.com/tomal-codesign/tomal-codesign/blob/main/github-img.png?raw=true" alt="Banner" />
+  <img src="https://github.com/tomal-codesign/tomal-codesign/blob/main/github-img-1.png?raw=true" alt="Banner" />
 </a>
 
 <p align="center">
