@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+views&color=blue&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=tomal-codesign&label=Profile+views&color=blue&style=flat" alt="tomal-codesign" />
 </p>
 
 <p align="center">🎨 <strong>Design Tools:</strong></p>
